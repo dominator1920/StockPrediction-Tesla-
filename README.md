@@ -44,7 +44,7 @@ Input → LSTM (50 units, return_sequences=True)
 | File | Description |
 |------|-------------|
 | `tesla-stock-prediction.ipynb` | Jupyter notebook with full data preprocessing, LSTM model, prediction, and visualization |
-| `TSLA.csv` | Tesla historical stock price dataset (from Yahoo Finance) |
+| `tesla_stock_data_2000_2025.csv` | Tesla historical stock price dataset (from Yahoo Finance) |
 | `README.md` | Project overview and instructions |
 
 ---
